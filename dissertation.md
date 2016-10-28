@@ -9,6 +9,7 @@ http://docs.neurodata.io/vesicle/
 
 ## santiago
 http://viz.neurodata.io/project/kasthuri11_synapse_subcell/5/367/549/1100/
+github.com/wrgr/santiago
 ## xbrain
 docs.neurodata.io/xbrain
 viz.neurodata.io/project/xbrain/0/1263/472/1000
@@ -20,6 +21,4 @@ viz.neurodata.io/project/xbrain/0/1263/472/1000
 ## neurodata
 
 docs.neurodata.io/ndpaper
-\newcommand{\websitesantiago}{\footnote{\url{github.com/wrgr/santiago}}}
-\newcommand{\vesiclewebsite}{\footnote{\url{docs.neurodata.io/vesicle}}}
-\newcommand{\websitendpaper}{\footnote{\url{http://ndpaper.neurodata.io}}}
+ndpaper.neurodata.io
